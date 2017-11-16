@@ -2,12 +2,10 @@
   "applinks": {
     "apps": [],
     "details": [
-      {
-        "appID": «YFADDH8BLW.com.globus-ltd.togezzer.kek»,
-        "paths": [
-          "*"
-        ]
-      }
+    {
+      "appID": "YFADDH8BLW.com.globus-ltd.togezzer.kek",
+      "paths": ["*"]
+    }
     ]
   }
 }
