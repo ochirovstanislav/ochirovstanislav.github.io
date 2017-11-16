@@ -1,11 +1,11 @@
 {
-  "applinks": {
-    "apps": [],
-    "details": [
-    {
-      "appID": "YFADDH8BLW.com.globus-ltd.togezzer.kek",
-      "paths": ["*"]
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "YFADDH8BLW.com.globus-ltd.togezzer.kek",
+                "paths": [ "*"]
+            }
+        ]
     }
-    ]
-  }
 }
